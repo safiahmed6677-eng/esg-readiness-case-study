@@ -48,7 +48,7 @@ These artefacts reflect the structures and templates referenced in the case stud
 
 ---
 
-### ESG KPI Tracker (Mock)
+**ESG KPI Tracker – Overview (Mock)** 
 
 A structured ESG KPI tracker designed for professional services SMEs to support client onboarding, procurement, and investor due diligence questionnaires.
 
@@ -58,13 +58,48 @@ The tracker:
 - Highlights gaps and next actions to reduce reactive data requests
 - Supports ongoing maintenance via review dates and ownership
 
-**Preview – ESG KPI Overview (Mock):**
+ 
+High-level view of ESG coverage across Environmental, Social, and Governance areas, showing ownership, status, typical questionnaire usage, and next actions.
 
-![ESG KPI Overview](./screenshots/kpi-overview-mock.png)
--Mock ESG KPI overview showing ownership, coverage status, and next actions.
+![ESG KPI Tracker Overview](./screenshots/kpi-overview-mock.png)
 
-- 📊 [Download KPI Tracker (Mock – Excel)](./kpi-tracker/ESG_KPI_Tracker_Mock_Northbridge_Advisory.xlsx)
+*This overview enables quick assessment of ESG readiness and highlights gaps before questionnaires or due diligence requests arise.*
 
+---
+
+**ESG Evidence Index – Overview (Mock)**
+
+A structured ESG evidence index designed for professional services SMEs to support consistent, auditable responses to client onboarding, procurement, and investor due diligence questionnaires.
+
+The evidence index:
+- Maps ESG metrics and questionnaire topics to supporting documentation
+- Records ownership and review cadence for each evidence item
+- Improves traceability between KPIs, policies, and source files
+- Documents assumptions and known limitations transparently
+
+High-level view of ESG evidence coverage, showing how metrics link to documentation, owners, and review timelines.
+
+![ESG Evidence Index Overview](./screenshots/evidence-index-mock.png)
+
+*This evidence index acts as a single source of truth, reducing time spent locating documentation and improving consistency across ESG questionnaire responses.*
+
+---
+
+**ESG Evidence Pack – Structure (Mock)**
+
+A structured ESG evidence pack designed to organise supporting documentation in a clear, maintainable way for professional services SMEs.
+
+The evidence pack:
+- Separates Environmental, Social, and Governance documentation
+- Supports clear ownership and accountability for ESG evidence
+- Enables faster responses to ad-hoc data and evidence requests
+- Provides a scalable structure that can mature as requirements increase
+
+Illustrative view of the folder structure used to store and govern ESG supporting documents.
+
+![ESG Evidence Pack Structure](./screenshots/evidence-pack-structure.png)
+
+*This structure ensures ESG evidence is easy to locate, review, and maintain, reducing operational friction during onboarding, procurement, and due diligence.*
 
 ---
 ## About This Work
