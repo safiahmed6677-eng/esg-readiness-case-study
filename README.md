@@ -61,7 +61,7 @@ The tracker:
 **Preview – ESG KPI Overview (Mock):**
 
 ![ESG KPI Overview](./screenshots/kpi-overview-mock.png)
-Mock ESG KPI overview showing ownership, coverage status, and next actions.
+-Mock ESG KPI overview showing ownership, coverage status, and next actions.
 
 - 📊 [Download KPI Tracker (Mock – Excel)](./kpi-tracker/ESG_KPI_Tracker_Mock_Northbridge_Advisory.xlsx)
 
