@@ -65,6 +65,8 @@ High-level view of ESG coverage across Environmental, Social, and Governance are
 
 *This overview enables quick assessment of ESG readiness and highlights gaps before questionnaires or due diligence requests arise.*
 
+*All artefacts in this repository are mock or illustrative but reflect real-world ESG readiness design principles. No sensitive or fabricated client data is included.*
+
 ---
 
 **ESG Evidence Index – Overview (Mock)**
