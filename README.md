@@ -38,8 +38,7 @@ The document covers:
 To preserve confidentiality, supporting artefacts are presented as mock or anonymised examples. These demonstrate structure and design rather than real client data.
 
 Supporting artefacts include:
-- ESG KPI Tracker (Mock – Excel):  
- [Download KPI Tracker](./kpi-tracker/ESG_KPI_Tracker_Mock_Northbridge_Advisory.xlsx)
+- ESG KPI Tracker 
 - Evidence folder structure
 - Salesforce tracking model
 - Questionnaire guidance examples
@@ -49,6 +48,24 @@ These artefacts reflect the structures and templates referenced in the case stud
 
 ---
 
+### ESG KPI Tracker (Mock)
+
+A structured ESG KPI tracker designed for professional services SMEs to support client onboarding, procurement, and investor due diligence questionnaires.
+
+The tracker:
+- Centralises ESG ownership across Environment, Social, and Governance
+- Maps KPIs directly to common questionnaire usage
+- Highlights gaps and next actions to reduce reactive data requests
+- Supports ongoing maintenance via review dates and ownership
+
+**Preview – ESG KPI Overview (Mock):**
+
+![ESG KPI Overview](./screenshots/kpi-overview-mock.png)
+
+- 📊 [Download KPI Tracker (Mock – Excel)](./kpi-tracker/ESG_KPI_Tracker_Mock_Northbridge_Advisory.xlsx)
+
+
+---
 ## About This Work
 
 This case study represents independent systems and analytics work focused on:
