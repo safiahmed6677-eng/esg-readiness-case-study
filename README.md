@@ -38,7 +38,8 @@ The document covers:
 To preserve confidentiality, supporting artefacts are presented as mock or anonymised examples. These demonstrate structure and design rather than real client data.
 
 Supporting artefacts include:
-- ESG KPI template
+- ESG KPI Tracker (Mock – Excel):  
+ [Download KPI Tracker](./kpi-tracker/ESG_KPI_Tracker_Mock_Northbridge_Advisory.xlsx)
 - Evidence folder structure
 - Salesforce tracking model
 - Questionnaire guidance examples
