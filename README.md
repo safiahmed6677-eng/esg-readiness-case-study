@@ -46,6 +46,8 @@ Supporting artefacts include:
 
 These artefacts reflect the structures and templates referenced in the case study.
 
+*All artefacts in this repository are mock or illustrative but reflect real-world ESG readiness design principles. No sensitive or fabricated client data is included.*
+
 ---
 
 **ESG KPI Tracker – Overview (Mock)** 
@@ -64,8 +66,6 @@ High-level view of ESG coverage across Environmental, Social, and Governance are
 ![ESG KPI Tracker Overview](./screenshots/kpi-overview-mock.png)
 
 *This overview enables quick assessment of ESG readiness and highlights gaps before questionnaires or due diligence requests arise.*
-
-*All artefacts in this repository are mock or illustrative but reflect real-world ESG readiness design principles. No sensitive or fabricated client data is included.*
 
 ---
 
